@@ -1,6 +1,7 @@
+## Hi there 👋
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20space&fontSize=40&animation=twinkling" />
 <marquee behavior="scroll" direction="left" scrollamount="6">
-## Hi there 👋
+
 
 <!--
 **myspace-dev/myspace-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
