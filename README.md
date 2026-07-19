@@ -18,4 +18,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20space&fontSize=40&animation=twinkling" />
-<img src="https://marquee-api.vercel.app/api?skills=python,javascript,react,html,css,git,docker,linux&speed=15&theme=dark" alt="My Tech Stack Marquee" />
+<marquee behavior="scroll" direction="left" scrollamount="6">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="margin-right: 15px;" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin-right: 15px;" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" style="margin-right: 15px;" />
+  <img src="https://img.shields.io/badge/Oracle_Siebel-E01E2E?style=for-the-badge&logo=oracle&logoColor=white" style="margin-right: 15px;" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="margin-right: 15px;" />
+</marquee>
