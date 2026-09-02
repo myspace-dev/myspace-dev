@@ -4,17 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=🐍%20Python%20%20🤖%20AI%20%20⚙️%20Siebel%20CRM%20%20✨%20Astro/Starlight&fontSize=30&animation=twinkling" />
 
 <p align="center">
-  <svg width="900" height="60" xmlns="http://www.w3.org/2000/svg">
-    <text x="0" y="40" font-size="22" fill="#f0f6fc" font-family="Arial, sans-serif">
-      <animate attributeName="x" from="900" to="-300" dur="14s" repeatCount="indefinite" />
-      <tspan fill="#61dafb">⚛ React</tspan> &nbsp;
-      <tspan fill="#000000">▲ Next.js</tspan> &nbsp;
-      <tspan fill="#3776ab">🐍 Python</tspan> &nbsp;
-      <tspan fill="#007396">☕ Java</tspan> &nbsp;
-      <tspan fill="#2496ed">🐳 Docker</tspan> &nbsp;
-      <tspan fill="#f05032">⎇ Git</tspan>
-    </text>
-  </svg>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=🚀+React+%7C+⚡+Next.js+%7C+🐍+Python+%7C+☕+Java+%7C+🐳+Docker" alt="Typing SVG" />
 </p>
 
 <!--
