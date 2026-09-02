@@ -18,11 +18,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <svg width="600" height="60">
-    <text x="600" y="35" font-size="24" fill="black">
-      🐍 Python ⚙️ CRM 🤖 AI ✨ Astro/Starlight
-      <animate attributeName="x" from="600" to="-600" dur="10s" repeatCount="indefinite" />
-    </text>
+  <svg width="900" height="80">
+    <!-- Oracle Siebel CRM -->
+    <image x="900" y="10" width="60" height="60" href="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg">
+      <animate attributeName="x" from="900" to="-200" dur="12s" repeatCount="indefinite" />
+    </image>
+    <!-- Python -->
+    <image x="1000" y="10" width="60" height="60" href="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+      <animate attributeName="x" from="1000" to="-100" dur="12s" repeatCount="indefinite" />
+    </image>
+    <!-- AI (generic brain icon) -->
+    <image x="1100" y="10" width="60" height="60" href="https://upload.wikimedia.org/wikipedia/commons/6/6a/Artificial_Intelligence_icon.svg">
+      <animate attributeName="x" from="1100" to="0" dur="12s" repeatCount="indefinite" />
+    </image>
+    <!-- Astro/Starlight -->
+    <image x="1200" y="10" width="60" height="60" href="https://raw.githubusercontent.com/withastro/astro/main/assets/logo.svg">
+      <animate attributeName="x" from="1200" to="100" dur="12s" repeatCount="indefinite" />
+    </image>
+    <!-- Integration (chain icon) -->
+    <image x="1300" y="10" width="60" height="60" href="https://upload.wikimedia.org/wikipedia/commons/0/0b/Chain_link_icon.svg">
+      <animate attributeName="x" from="1300" to="200" dur="12s" repeatCount="indefinite" />
+    </image>
   </svg>
 </p>
-
