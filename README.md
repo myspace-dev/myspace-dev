@@ -1,7 +1,7 @@
 ## Hi there 👋
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20space&fontSize=40&animation=twinkling" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=auto&lines=%F0%9F%90%8D+Python+%F0%9F%A4%96+AI+%F0%9F%9B%A0+Siebel+CRM+%F0%9F%9A%80+Astro%2FStarlight+%E2%9B%85%EF%B8%8F+Claudflare+%E2%9A%A1+%EF%B8%8FGit" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=1000&lines=%F0%9F%90%8D+Python+%F0%9F%A4%96+AI+%F0%9F%9B%A0+Siebel+CRM+%F0%9F%9A%80+Astro%2FStarlight+%E2%9B%85%EF%B8%8F+Claudflare+%E2%9A%A1+%EF%B8%8FGit" alt="Typing SVG" /></a>
 
 <!--
 **myspace-dev/myspace-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
