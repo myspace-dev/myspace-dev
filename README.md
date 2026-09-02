@@ -7,7 +7,7 @@
 <details>
   <summary><kbd><strong>📋 ⌘ <mark><em> Custom AstroJS Syntax for Notepad++ </em></mark></strong></kbd></summary>
   
-```xml
+```xml wrap=true
 <?xml version="1.0" encoding="UTF-8"?>
 <NotepadPlus>
     <UserLang name="Astro" ext="astro" udlVersion="2.1">
