@@ -3,9 +3,17 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=%E2%86%90+%E2%86%90+%E2%86%90+TECH+STACK+%E2%86%90+%E2%86%90+%E2%86%90" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=800&lines=%F0%9F%90%8D+Python+%F0%9F%A4%96+AI+%F0%9F%9B%A0%EF%B8%8F+Oracle+Siebel+CRM+;%F0%9F%9A%80+Astro%2FStarlight+%E2%9B%85%EF%B8%8F+Claudflare+;%F0%9F%8C%9F+%EF%B8%8FGit++%F0%9F%94%84++GitHub+Actions%2FCI%2FCD;%F0%9F%8C%90+HTML5+%F0%9F%8E%A8+CSS3+%E2%9A%A1+JavaScript+%F0%9F%9B%A1%EF%B8%8F+TypeScript" alt="Typing SVG" /></a>
-
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+### `Created a custom Notepad++ syntax highlighting configuration for AstroJS.`
+### `It brings clean syntax coloring and better code readability for .astro files.`
+### `Notepad++ User Defined Language (UDL) for AstroJS`
+👇
 <details>
-  <summary><kbd><strong>📋 ⌘ <mark><em> Custom AstroJS Syntax for Notepad++ </em></mark></strong></kbd></summary>
+  <summary><kbd><strong>📋 ⌘ <mark><em> View Code </em></mark></strong></kbd></summary>
   
 ```xml wrap=true
 <?xml version="1.0" encoding="UTF-8"?>
@@ -61,7 +69,7 @@
 ```
 
 </details> 
-
+  <br>
   <br>
   <br>
   <br>
