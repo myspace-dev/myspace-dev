@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20space&fontSize=40&animation=twinkling" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=🐍%20Python%20%20🤖%20AI%20%20⚙️%20Siebel%20CRM%20%20✨%20Astro/Starlight&fontSize=30&animation=twinkling" />
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🐍+Python;⚙️+Oracle+Siebel+CRM;🤖+AI;✨+Astro/Starlight;🔗+Integration&center=true&width=600&size=30&color=36BCF7&pause=1000&duration=2000)](https://git.io/typing-svg)
+
 
 
 <!--
