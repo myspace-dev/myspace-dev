@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle_Siebel-E01E2E?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <svg width="600" height="60">
+    <text x="600" y="35" font-size="24" fill="black">
+      🐍 Python ⚙️ CRM 🤖 AI ✨ Astro/Starlight
+      <animate attributeName="x" from="600" to="-600" dur="10s" repeatCount="indefinite" />
+    </text>
+  </svg>
 </p>
+
