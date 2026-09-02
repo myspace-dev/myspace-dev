@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=🐍%20Python%20%20🤖%20AI%20%20⚙️%20Siebel%20CRM%20%20✨%20Astro/Starlight&fontSize=30&animation=twinkling" />
 
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=🚀+React+%7C+⚡+Next.js+%7C+🐍+Python+%7C+☕+Java+%7C+🐳+Docker" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%90%8D+Python+%F0%9F%A4%96+AI+%E2%9A%99%EF%B8%8F+Siebel+CRM+%E2%9C%A8+Astro%2FStarlight" alt="Typing SVG" /></a>
 
 
 <!--
