@@ -1,10 +1,7 @@
 ## Hi there 👋
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20space&fontSize=40&animation=twinkling" />
-<!--
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=🐍%20Python%20%20🤖%20AI%20%20⚙️%20Siebel%20CRM%20%20✨%20Astro/Starlight&fontSize=30&animation=twinkling" />
--->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=4000&lines=%F0%9F%90%8D+Python+%F0%9F%A4%96+AI+%E2%9A%99%EF%B8%8F+Siebel+CRM+%E2%9C%A8+Astro%2FStarlight" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=600&lines=%F0%9F%90%8DPython+%F0%9F%A4%96AI+%F0%9F%9B%A0Siebel+CRM+%E2%9C%A8Astro%2FStarlight+%E2%9B%85%EF%B8%8FClaudflare+%E2%9A%99%EF%B8%8FGit" alt="Typing SVG" /></a>
 
 
 <!--
