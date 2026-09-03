@@ -7,7 +7,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=800&lines=%F0%9F%90%8D+Python+%F0%9F%A4%96+AI+%F0%9F%9B%A0%EF%B8%8F+Oracle+Siebel+CRM+;%F0%9F%9A%80+Astro%2FStarlight+%E2%9B%85%EF%B8%8F+Claudflare+;%F0%9F%8C%9F+%EF%B8%8FGit++%F0%9F%94%84++GitHub+Actions%2FCI%2FCD;%F0%9F%8C%90+HTML5+%F0%9F%8E%A8+CSS3+%E2%9A%A1+JavaScript+%F0%9F%9B%A1%EF%B8%8F+TypeScript" alt="Typing SVG" /></a>
   <br>
   <br>
-  <br>
+  <img src="./assets/zepeto_centered.gif" width="480" alt="zepeto">
   <br>
   <br>
 ### `Created a custom Notepad++ syntax highlighting configuration for AstroJS.`
