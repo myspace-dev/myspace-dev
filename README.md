@@ -10,8 +10,9 @@
   <img src="./assets/zepeto_centered.gif" width="480" alt="zepeto">
   <br>
   <br>
-  
-### `Created a custom Notepad++ syntax highlighting configuration for AstroJS.`
+
+##  
+## `Created a custom Notepad++ syntax highlighting configuration for AstroJS.`
 ### `It brings clean syntax coloring and better code readability for .astro files.`
 ### `Notepad++ User Defined Language (UDL) for AstroJS`
 
